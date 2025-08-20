@@ -2,7 +2,7 @@
 
 Done By : Devaprakash R
 
-## 📊 Project Overview  
+##  Project Overview  
 This project demonstrates an **end-to-end Retail Sales Analytics solution**, integrating **MySQL** for data creation, **Excel (Advanced, Power Query, Power Pivot, DAX)** for analytics, and **interactive dashboards** for actionable business insights.  
 
 The workflow covers:  
@@ -13,7 +13,7 @@ The workflow covers:
 
 ---
 
-## 🚀 Key Business Questions Answered  
+##  Key Business Questions Answered  
 - Which products and regions generate the highest revenue?  
 - What are the monthly and yearly sales trends?  
 - How do categories and performance tiers compare?  
@@ -22,7 +22,7 @@ The workflow covers:
 
 ---
 
-## 🛠 Tools & Technologies  
+##  Tools & Technologies  
 - **MySQL** → Data generation, schema design, SQL scripts  
 - **Excel (Advanced)** → Power Query, Power Pivot, DAX, Forecasting, KPI cards  
 - **ODBC Connector** → Database-to-Excel integration  
@@ -31,7 +31,7 @@ The workflow covers:
 
 ---
 
-## 🧩 Concepts Used  
+##  Concepts Used  
 - **SQL Database Design** → Tables, Keys, Queries, Export  
 - **Data Cleaning & Transformation** → ETL with Power Query  
 - **Data Modeling** → Fact/Dimension, Star Schema  
@@ -41,7 +41,7 @@ The workflow covers:
 
 ---
 
-## 📂 Project Structure  
+##  Project Structure  
 - ├── .Visuals/ # Dashboard screenshots
 - ├── 01_Retail_Records_MySQL_Script # SQL script for data generation
 - ├── 02_Retail_Records_Dataset.csv # Exported dataset
@@ -52,7 +52,7 @@ The workflow covers:
 
 ---
 
-## 🎯 Outcome  
+##  Outcome  
 This project highlights my ability to **bridge database management and business intelligence**, enabling organizations to make **data-driven decisions with actionable insights**.  
 
 ---
